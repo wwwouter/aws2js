@@ -9,7 +9,7 @@
 		"mime-magic": ">=0.2.2"
 	},
 	"engines": {
-		"node": ">=0.4.10"
+		"node": ">=0.4.7"
 	},
 	"homepage": "https://github.com/SaltwaterC/aws2js",
 	"author": {
