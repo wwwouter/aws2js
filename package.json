@@ -4,8 +4,7 @@
 	"version": "0.5.4",
 	"description": "AWS (Amazon Web Services) APIs client implementation for node.js",
 	"dependencies": {
-		"libxmljs": ">=0.x",
-		"libxml-to-js": ">=0.3.8",
+    "xml2js" : "0.1.13",
 		"mime-magic": ">=0.2.2"
 	},
 	"engines": {
