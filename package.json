@@ -5,7 +5,7 @@
 	"description": "AWS (Amazon Web Services) APIs client implementation for node.js",
 	"dependencies": {
     "xml2js" : "0.1.13",
-		"mime-magic": ">=0.2.2"
+		"mime": "1.2.5"
 	},
 	"engines": {
 		"node": ">=0.4.7"
